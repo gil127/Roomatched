@@ -1,0 +1,3 @@
+To get all available posts use this:
+
+http://localhost:8080/Roomatched/api/post

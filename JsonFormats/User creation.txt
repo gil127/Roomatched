@@ -1,0 +1,102 @@
+{
+"email": "gilda3@mail.com",
+"password": "1234",
+"firstName": "Gil",
+"lastName": "Dadosh",
+"sex": "Male", 
+"type": "offerer",
+"photoUrl": "",
+"preferences": {
+	"animals": 3,
+	"kosher": 1,
+	"sharedExpences": 0,
+	"smoking": 3,
+	"vegan": 0,
+    "seekerOccupation":"", 
+	"gayFriendly":2,
+    "musicianFriendly":1
+	},
+"additionalDetails": {
+	"apartmentDetails": {
+		"size": "3",
+		"location": "Bugrashov",
+		"totalRooms": "4",
+		"totalRoomates": "3",
+		"freeRooms": "1",
+		"floor": "2",
+		"hasElevator": "true",
+		"hasParking": "false",
+		"isRenovated": "true",
+		"approximateExpences": "22",
+		"images": "",
+        "guarantees": "",
+        "hasLivingRoom":"true",
+        "City":"Tel-Aviv",
+        "isFurnished":"true"
+		},
+	"roomDetails": {
+        "price": "2500",
+		"size": "4",
+		"isFurnished": "true",
+		"hasBalcony": "false",
+		"seperateBathroom": "true",
+		"airConditioned": "false",
+        "images": ""
+		}
+	}
+}
+
+
+
+{
+"email": "gilda5@mail.com",
+"password": "1234",
+"firstName": "Gil",
+"lastName": "Dadosh",
+"sex": "Male", 
+"type": "seeker",
+"photoUrl": "",
+"preferences": {
+	"animals": 3,
+	"kosher": 1,
+	"sharedExpences": 0,
+	"smoking": 3,
+	"vegan": 0,
+    "seekerOccupation":"",
+    "gayFriendly":2,
+    "musicianFriendly":1
+	},
+"additionalDetails": {
+  	"numberOfRoomates":2,
+    "pricePreffered":2000,
+    "location":"Tel-Aviv"
+	}
+}
+
+
+
+{
+"facebookId": "320050101672345",
+"facebookFriends": ["10209270799357382", "349676985364073"],
+"firstName": "DpfbTwo",
+"lastName": "Mta",
+"sex": "Male", 
+"type": "seeker",
+"photoUrl": "",
+"preferences": {
+	"animals": -2,
+	"kosher": 1,
+	"sharedExpences": 0,
+	"smoking": 2,
+	"vegan": 0,
+    "gayFriendly":2,
+    "musicianFriendly":1
+	},
+"additionalDetails": {
+	"minPricePreffered":1,
+	"maxPricePreffered":2500,
+  	"numberOfRoomates":2,
+    "pricePreffered":2000,
+    "city":"Tel-Aviv"
+	}
+}

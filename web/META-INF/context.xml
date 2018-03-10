@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Roomatched">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="RoomatchedPU" password="yT7%fR6*" type="javax.sql.DataSource" url="jdbc:mysql://sql2.freemysqlhosting.net:3306/sql2105882?zeroDateTimeBehavior=convertToNull" username="sql2105882"/>
+</Context>

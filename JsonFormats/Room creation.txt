@@ -1,0 +1,9 @@
+"roomDetails": {
+        "price": "2500",
+		"size": "4",
+		"isFurnished": "true",
+		"hasBalcony": "false",
+		"seperateBathroom": "true",
+		"airConditioned": "false",
+        "images": ""
+		}

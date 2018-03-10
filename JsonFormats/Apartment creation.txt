@@ -1,0 +1,17 @@
+apartmentDetails": {
+		"size": "3",
+		"location": "Bugrashov",
+		"totalRooms": "4",
+		"totalRoomates": "3",
+		"freeRooms": "1",
+		"floor": "2",
+		"hasElevator": "true",
+		"hasParking": "false",
+		"isRenovated": "true",
+		"approximateExpences": "22",
+		"images": "",
+        "guarantees": "",
+        "hasLivingRoom":"true",
+        "City":"Tel-Aviv",
+        "isFurnished":"true"
+		}

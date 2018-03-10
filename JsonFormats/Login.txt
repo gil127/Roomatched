@@ -1,0 +1,7 @@
+Send post request to: http://localhost:8080/Roomatched/api/auth/login
+Using the next format:
+
+{
+  "email": "gilda@mail.com",
+  "password": "1234"
+}
